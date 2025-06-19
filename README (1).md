@@ -55,7 +55,7 @@ Open browser at: `http://localhost:8501`
 
 > ## 📷 Screenshot
 
-![Screenshot](Screenshot 2025-06-19 125531.png)
+Screenshot 2025-06-19 125531.png
 
 
 
