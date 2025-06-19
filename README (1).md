@@ -53,7 +53,11 @@ Open browser at: `http://localhost:8501`
 
 ## 📷 Screenshot
 
-> ![Screenshot](https://placehold.co/700x400?text=AI+Study+Buddy+Interface)
+> ## 📷 Screenshot
+
+![Screenshot](Screenshot 2025-06-19 125531.png)
+
+
 
 ---
 
